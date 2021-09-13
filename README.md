@@ -11,12 +11,16 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 ### Categories
 
 * [Git](#git)
+* [Unix](#unix)
 
 ---
 
 ### Git
 
 - [Git Checkout Previous Branch](git/git-checkout-previous-branch.md)
+
+### Unix
+- [Parse and manipulate tabular data with awk](unix/parse-manipulate-tabular-data-awk.md)
 
 ## License
 

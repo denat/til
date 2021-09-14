@@ -11,6 +11,7 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 ### Categories
 
 * [Git](#git)
+* [TypeScript](#typescript)
 * [Unix](#unix)
 * [Best Practices](#best-practices)
 

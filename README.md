@@ -17,8 +17,10 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 ---
 
 ### Git
-
 - [Git Checkout Previous Branch](git/git-checkout-previous-branch.md)
+
+### TypeScript
+- [Generic type parameters can have defaults](typescript/typescript-generic-type-parameter-defaults)
 
 ### Unix
 - [Parse and manipulate tabular data with awk](unix/parse-manipulate-tabular-data-awk.md)

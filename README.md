@@ -10,15 +10,19 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 
 ### Categories
 
-* [Git](#git)
-* [TypeScript](#typescript)
-* [Unix](#unix)
-* [Best Practices](#best-practices)
+- [Git](#git)
+- [PowerShell](#powershell)
+- [TypeScript](#typescript)
+- [Unix](#unix)
+- [Best Practices](#best-practices)
 
 ---
 
 ### Git
 - [Git Checkout Previous Branch](git/git-checkout-previous-branch.md)
+
+### PowerShell
+- [Use Ctrl+R to search backward in history](powershell/reverse-command-search)
 
 ### TypeScript
 - [Generic type parameters can have defaults](typescript/typescript-generic-type-parameter-defaults)

@@ -22,6 +22,7 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 
 ### Unix
 - [Parse and manipulate tabular data with awk](unix/parse-manipulate-tabular-data-awk.md)
+- [Execute a Node.js script directly using a shebang line](unix/execute-node-script-directly-using-shebang-line)
 
 ### Best Practices
 - [Use structured logging in production](best-practices/use-structured-logging-in-production)

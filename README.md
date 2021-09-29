@@ -12,6 +12,7 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 
 - [Git](#git)
 - [PowerShell](#powershell)
+- [React](#react)
 - [TypeScript](#typescript)
 - [Unix](#unix)
 - [Best Practices](#best-practices)
@@ -23,6 +24,9 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 
 ### PowerShell
 - [Use Ctrl+R to search backward in history](powershell/reverse-command-search)
+
+### React
+- [SSR & Isomorphic apps depend on React's renderToString() method](react/ssr-isomorphic-depend-on-rendertostring)
 
 ### TypeScript
 - [Generic type parameters can have defaults](typescript/typescript-generic-type-parameter-defaults)

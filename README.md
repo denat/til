@@ -22,6 +22,9 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 ### Git
 - [Git Checkout Previous Branch](git/git-checkout-previous-branch.md)
 
+### GraphQL
+- [Mock GraphQL APIs using msw](graphql/mock-graphql-apis-using-msw)
+
 ### PowerShell
 - [Use Ctrl+R to search backward in history](powershell/reverse-command-search)
 

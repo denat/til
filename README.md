@@ -20,7 +20,7 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 ---
 
 ### Git
-- [Git Checkout Previous Branch](git/git-checkout-previous-branch.md)
+- [Git Checkout Previous Branch](git/git-checkout-previous-branch)
 
 ### GraphQL
 - [Mock GraphQL APIs using msw](graphql/mock-graphql-apis-using-msw)
@@ -35,7 +35,7 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 - [Generic type parameters can have defaults](typescript/typescript-generic-type-parameter-defaults)
 
 ### Unix
-- [Parse and manipulate tabular data with awk](unix/parse-manipulate-tabular-data-awk.md)
+- [Parse and manipulate tabular data with awk](unix/parse-manipulate-tabular-data-awk)
 - [Execute a Node.js script directly using a shebang line](unix/execute-node-script-directly-using-shebang-line)
 
 ### Best Practices

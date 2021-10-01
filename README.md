@@ -11,6 +11,7 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 ### Categories
 
 - [Git](#git)
+- [GraphQL](#graphql)
 - [PowerShell](#powershell)
 - [React](#react)
 - [TypeScript](#typescript)

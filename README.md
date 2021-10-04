@@ -16,6 +16,7 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 - [React](#react)
 - [TypeScript](#typescript)
 - [Unix](#unix)
+- [VSCode](#vscode)
 - [Best Practices](#best-practices)
 
 ---
@@ -38,6 +39,9 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 ### Unix
 - [Parse and manipulate tabular data with awk](unix/parse-manipulate-tabular-data-awk)
 - [Execute a Node.js script directly using a shebang line](unix/execute-node-script-directly-using-shebang-line)
+
+### VSCode
+- [Setup local isolated development environments using Remote Containers](vscode/setup-local-isolated-dev-env-using-remote-containers)
 
 ### Best Practices
 - [Use structured logging in production](best-practices/use-structured-logging-in-production)

@@ -24,6 +24,10 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 
 ---
 
+
+### Best Practices
+- [Use structured logging in production](best-practices/use-structured-logging-in-production)
+
 ### Chrome
 - [Use $$() to select all matching elements](chrome/use_double_dollar_syntax_to_select_all_matching_elements)
 
@@ -55,9 +59,6 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 
 ### Yarn
 - [Debug libraries locally using yarn link](yarn/debug-libraries-locally-using-yarn-link)
-
-### Best Practices
-- [Use structured logging in production](best-practices/use-structured-logging-in-production)
 
 ## License
 

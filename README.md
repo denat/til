@@ -19,6 +19,7 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 - [TypeScript](#typescript)
 - [Unix](#unix)
 - [VSCode](#vscode)
+- [Yarn](#yarn)
 - [Best Practices](#best-practices)
 
 ---
@@ -51,6 +52,9 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 ### VSCode
 - [Setup local isolated development environments using Remote Containers](vscode/setup-local-isolated-dev-env-using-remote-containers)
 - [Debug Node.js code in JavaScript Debug Terminal](vscode/debug-nodejs-code-in-javascript-debug-terminal)
+
+### Yarn
+- [Debug libraries locally using yarn link](yarn/debug-libraries-locally-using-yarn-link)
 
 ### Best Practices
 - [Use structured logging in production](best-practices/use-structured-logging-in-production)

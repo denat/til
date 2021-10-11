@@ -10,6 +10,7 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 
 ### Categories
 
+- [Chrome](#chrome)
 - [Git](#git)
 - [GraphQL](#graphql)
 - [PowerShell](#powershell)
@@ -20,6 +21,9 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 - [Best Practices](#best-practices)
 
 ---
+
+### Chrome
+- [Use $$() to select all matching elements](chrome/use_double_dollar_syntax_to_select_all_matching_elements)
 
 ### Git
 - [Git Checkout Previous Branch](git/git-checkout-previous-branch)

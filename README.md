@@ -40,9 +40,6 @@ Inspired by swyx's [Learning in Public](https://www.swyx.io/learn-in-public/) an
 ### Laws & Principles
 - [Law of Triviality (Bikeshedding)](laws-and-principles/law-of-triviality-bikeshedding.md)
 
-### Misc
-- [Quickstart a playground by searching by package in CodeSandbox](misc/quickstart-playground-by-searching-by-package-in-CodeSandbox.md)
-
 ### PowerShell
 - [Use Ctrl+R to search backward in history](powershell/reverse-command-search.md)
 
